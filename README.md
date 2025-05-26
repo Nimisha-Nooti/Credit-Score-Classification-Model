@@ -19,15 +19,7 @@ The pipeline implemented in this project is comprehensive and encompasses all es
 
 - Source: Kaggle (custom credit scoring dataset)
 
-- Attributes include:
-
-Age, Annual Income, Monthly Salary
-
-Outstanding Debt, Loan Counts
-
-Delayed Payments, Spending Score
-
-Payment Behavior and Credit Utilization
+- Attributes include: Age, Annual Income, Monthly Salary, Outstanding Debt, Loan Counts, Delayed Payments, Spending Score, Payment Behavior and Credit Utilization
 
 ### Files
 
